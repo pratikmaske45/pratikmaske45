@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hello, I'm <mark>Pratik Babaso Maske</mark>!</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=BCS+Graduate;MCA+Student @ IMCC+Pune;Welcome+to+my+GitHub!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=BCS+Graduate;MCA+Student+%40+IMCC%2C+Pune;Welcome+to+my+GitHub!" alt="Typing SVG" />
 </p>
 
 <h3 align="center">
