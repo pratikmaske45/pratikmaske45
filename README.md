@@ -142,7 +142,19 @@ AI & ML Course – MKCL
  │
  ├── 🤖 Artificial Intelligence
  └── 🧠 Machine Learning
- │
+ │💡
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/BCS-COMPLETED-success?style=for-the-badge" /> <img src="https://img.shields.io/badge/AI%20%26%20ML-COMPLETED-success?style=for-the-badge" /> <img src="https://img.shields.io/badge/College%20Project-COMPLETED-success?style=for-the-badge" /> <img src="https://img.shields.io/badge/MCA%20CET-97.16%25-gold?style=for-the-badge" /> <img src="https://img.shields.io/badge/MCA-ONGOING-blue?style=for-the-badge" />
+
+</p>
+
+<h2 align="center">👨‍💻 Pratik Babaso Maske</h2>
+
+<p align="center"> 🎓 MCA Student @ IMCC, Pune <br> 💻 BCS Graduate <br> <br> <mark>Learning • Building • Growing 🚀</mark> </p>
+
+<p align="center"> ⭐ <strong>Thanks for visiting my GitHub profile!</strong> ⭐ </p>
  ▼
 MCA – IMCC Pune
  │
