@@ -1,92 +1,222 @@
-👋 Hello, My Name Is <mark>Pratik Babaso Maske</mark>!
+<h1 align="center">👋 Hello, I'm <mark>Pratik Babaso Maske</mark>!</h1>
 
-<p align="center"> <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=28&pause=1000&center=true&vCenter=true&width=600&lines=Hello%2C+I'm+Pratik+Babaso+Maske!;BCS+Graduate;Welcome+to+my+GitHub!" alt="Typing SVG" /> </p>
+<h3 align="center">   🎓 MCA Student | 💻 Computer Science Graduate </h3>
 
-👨‍💻 About Me
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=pratik-maske&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
 
-<p align="center"> <mark>Welcome to my GitHub profile!</mark> </p>
+---
 
-🎓 <mark>Education:</mark> Bachelor of Computer Science (BCS)
-🏫 <mark>College:</mark> K.B.P. College, Islampur
-💻 <mark>Interest:</mark> Web Development
-📱 <mark>College Project:</mark> Online Mobile Shop Website
-🚀 <mark>Status:</mark> Project Completed ✅
-📱 My College Project
+## 👨‍💻 About Me
+
+<p align="center">
+  <img src="https://img.shields.io/badge/BCS-Graduate-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/MCA-Student-success?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/AI%20%26%20ML-Course-orange?style=for-the-badge" />
+</p>
+
+* 👋 Hi, I'm **Pratik Babaso Maske**
+* 🎓 I have completed my **Bachelor of Computer Science (BCS)**
+* 🏫 Completed BCS from **K.B.P. College, Islampur**
+* 🎓 Currently pursuing **Master of Computer Applications (MCA)**
+* 🏫 Currently studying at **IMCC, Pune**
+* 🏆 Secured **97.16% in MCA CET**
+* 🤖 Completed an **AI & ML course from MKCL**
+* 💻 Interested in **Web Development, Artificial Intelligence & Machine Learning**
+* 🚀 Passionate about learning new technologies and building real-world projects
+
+---
+
+## 🎓 Education
+
+<p align="center">
+  <img src="https://img.shields.io/badge/BCS-K.B.P.%20College%2C%20Islampur-4285F4?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/MCA-IMCC%2C%20Pune-7B1FA2?style=for-the-badge" />
+</p>
+
+| Qualification                            | Institute                | Status                |
+| ---------------------------------------- | ------------------------ | --------------------- |
+| 🎓 Bachelor of Computer Science (BCS)    | K.B.P. College, Islampur | ✅ Completed           |
+| 🎓 Master of Computer Applications (MCA) | IMCC, Pune               | 🟢 Currently Studying |
+
+### 🏆 MCA CET Achievement
+
+<p align="center">
+  <img src="https://img.shields.io/badge/MCA%20CET-97.16%25-FFD700?style=for-the-badge&labelColor=333333" />
+</p>
+
+---
+
+## 🤖 AI & Machine Learning
+
+<p align="center">
+  <img src="https://img.shields.io/badge/AI-Artificial%20Intelligence-8A2BE2?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/ML-Machine%20Learning-00A67E?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/MKCL-AI%20%26%20ML%20Course-FF6F00?style=for-the-badge" />
+</p>
+
+* [x] Completed **AI & Machine Learning Course**
+* [x] Course completed through **MKCL**
+* [x] Learned fundamental concepts of Artificial Intelligence
+* [x] Learned fundamental concepts of Machine Learning
+* [x] Interested in exploring AI-powered applications
+
+---
+
+## 🛠️ Skills & Technologies
+
+### 🌐 Web Development
+
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+</p>
+
+### 🤖 AI & ML
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Artificial%20Intelligence-412991?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Machine%20Learning-00A67E?style=for-the-badge" />
+</p>
+
+### 💻 Programming & Tools
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+</p>
+
+---
+
+# 📱 Featured Project
 
 <h2 align="center">🛒 Online Mobile Shop Website</h2>
 
-<p align="center"> <mark>PROJECT COMPLETED ✅</mark> </p>
+<p align="center">
+  <img src="https://img.shields.io/badge/College%20Project-Completed-success?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Project-Online%20Mobile%20Shop-blue?style=for-the-badge" />
+</p>
 
-📖 About the Project
+### 📖 Project Overview
 
-The Online Mobile Shop Website is a college project that I developed to create a simple and user-friendly platform for browsing mobile phones online.
+The **Online Mobile Shop Website** was developed as a college project during my BCS studies.
 
-The website allows users to explore mobile products, view product information, and understand the basic concept of an online shopping platform.
+The project focuses on creating a simple and user-friendly online platform where users can browse mobile phones, explore product information, and understand the basic workflow of an e-commerce website.
 
-✨ Project Features
-Status	Feature
-✅	<mark>Home Page</mark>
-✅	<mark>Mobile Product Section</mark>
-✅	<mark>Product Details</mark>
-✅	<mark>Product Browsing</mark>
-✅	<mark>User-Friendly Interface</mark>
-✅	<mark>Online Shopping Concept</mark>
-✅	<mark>Website Testing</mark>
-🛠️ Technologies Used
+### ✨ Project Features
 
-<p align="center"> <img src="https://skillicons.dev/icons?i=html,css,js" alt="Technologies" /> </p>
+* [x] 🏠 Home Page
+* [x] 📱 Mobile Product Listing
+* [x] 🔍 Product Browsing
+* [x] 📋 Product Details
+* [x] 🛒 Online Shopping Interface
+* [x] 🎨 User-Friendly Design
+* [x] 🧪 Website Testing
+* [x] 📝 Project Documentation
 
-<mark>HTML</mark> — Website structure
-<mark>CSS</mark> — Website styling and design
-<mark>JavaScript</mark> — Website functionality
-📂 Project Checklist
+### 🛠️ Technologies Used
 
-💡 Project idea finalized
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+</p>
 
-🎨 Website design completed
+---
 
-🏠 Home page created
+## 📊 My Learning Journey
 
-📱 Mobile products added
+```text
+BCS
+ │
+ ├── 💻 Computer Science Fundamentals
+ │
+ ├── 🌐 Web Development
+ │
+ └── 📱 Online Mobile Shop Project
+ │
+ ▼
+AI & ML Course – MKCL
+ │
+ ├── 🤖 Artificial Intelligence
+ └── 🧠 Machine Learning
+ │
+ ▼
+MCA – IMCC Pune
+ │
+ └── 🚀 Currently Learning & Building
+```
 
-📋 Product details added
+---
 
-⚙️ Website functionality completed
+## 🎯 Current Goals
 
-🧪 Website tested
+* [x] 🎓 Complete BCS
+* [x] 📱 Complete Online Mobile Shop Project
+* [x] 🤖 Complete MKCL AI & ML Course
+* [x] 🏆 Achieve 97.16% in MCA CET
+* [x] 🎓 Start MCA at IMCC Pune
+* [ ] 💻 Build advanced real-world projects
+* [ ] 🤖 Develop AI/ML-based applications
+* [ ] 🌐 Improve full-stack development skills
+* [ ] 🚀 Contribute to open-source projects
 
-📝 Project documentation completed
+---
 
-📄 README.md created
+## 💡 Areas of Interest
 
-🎯 Project Objective
+<p align="center">
+  <img src="https://img.shields.io/badge/Web%20Development-FF6B6B?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Artificial%20Intelligence-845EC2?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Machine%20Learning-00C9A7?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Software%20Development-4D96FF?style=for-the-badge" />
+</p>
 
-<mark>To develop a simple and user-friendly online mobile shopping website while applying the web development concepts learned during my BCS course.</mark>
+---
 
-🎓 Education
-Bachelor of Computer Science (BCS)
+## 📈 GitHub Stats
 
-K.B.P. College, Islampur
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=pratik-maske&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+</p>
 
-<mark>Education Completed ✅</mark>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pratik-maske&theme=tokyonight" alt="GitHub Streak" />
+</p>
 
-📊 Project Status
+---
+
+## 🚀 Mark Done
 
 <p align="center">
 
-📝 Project	📌 Status
-Online Mobile Shop Website	🟢 <mark>COMPLETED</mark>
+<img src="https://img.shields.io/badge/BCS-COMPLETED-success?style=for-the-badge" />
+<img src="https://img.shields.io/badge/AI%20%26%20ML-COMPLETED-success?style=for-the-badge" />
+<img src="https://img.shields.io/badge/College%20Project-COMPLETED-success?style=for-the-badge" />
+<img src="https://img.shields.io/badge/MCA%20CET-97.16%25-gold?style=for-the-badge" />
+<img src="https://img.shields.io/badge/MCA-ONGOING-blue?style=for-the-badge" />
 
 </p>
 
-👨‍💻 Developer
+---
 
-<h2 align="center"><mark>Pratik Babaso Maske</mark></h2>
+<h2 align="center">👨‍💻 Pratik Babaso Maske</h2>
 
-<p align="center"> 🎓 Bachelor of Computer Science (BCS) <br> 🏫 K.B.P. College, Islampur </p>
+<p align="center">
+  🎓 MCA Student @ IMCC, Pune
+  <br>
+  💻 BCS Graduate
+  <br>
+  🤖 AI & ML Enthusiast
+  <br><br>
+  <mark>Learning • Building • Growing 🚀</mark>
+</p>
 
-🚀 <mark>MARK DONE ✅</mark>
+---
 
-<p align="center"> <strong>Online Mobile Shop Website — COMPLETED ☑️</strong> </p>
-
-<p align="center"> ⭐ Thank you for visiting my GitHub profile! ⭐ </p>
+<p align="center">
+  ⭐ <strong>Thanks for visiting my GitHub profile!</strong> ⭐
+</p>
