@@ -146,3 +146,11 @@ AI & ML Course – MKCL
  │
  ├── 🤖 Artificial Intelligence
  └── 🧠 Machine Learning
+```
+<h2 align="center">👨‍💻 Pratik Babaso Maske</h2>
+
+<p align="center"> 🎓 MCA Student @ IMCC, Pune <br> 💻 BCS Graduate <br> <br> <mark>Learning • Building • Growing 🚀</mark> </p>
+
+<p align="center">
+⭐ <strong>Thanks for visiting my GitHub profile!</strong> ⭐
+</p>
