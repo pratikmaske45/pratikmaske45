@@ -1,6 +1,8 @@
 <h1 align="center">👋 Hello, I'm <mark>Pratik Babaso Maske</mark>!</h1>
 
-<h3 align="center">   🎓 MCA Student | 💻 Computer Science Graduate </h3>
+<h3 align="center">
+  🎓 MCA Student | 💻 Computer Science Graduate
+</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=pratik-maske&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
@@ -16,15 +18,14 @@
   <img src="https://img.shields.io/badge/AI%20%26%20ML-Course-orange?style=for-the-badge" />
 </p>
 
-* 👋 Hi, I'm **Pratik Babaso Maske**
-* 🎓 I have completed my **Bachelor of Computer Science (BCS)**
-* 🏫 Completed BCS from **K.B.P. College, Islampur**
-* 🎓 Currently pursuing **Master of Computer Applications (MCA)**
-* 🏫 Currently studying at **IMCC, Pune**
-* 🏆 Secured **97.16% in MCA CET**
-* 🤖 Completed an **AI & ML course from MKCL**
-* 💻 Interested in **Web Development, Artificial Intelligence & Machine Learning**
-* 🚀 Passionate about learning new technologies and building real-world projects
+- 👋 Hi, I'm **Pratik Babaso Maske**
+- 🎓 I have completed my **Bachelor of Computer Science (BCS)**
+- 🏫 Completed BCS from **K.B.P. College, Islampur**
+- 🎓 Currently pursuing **Master of Computer Applications (MCA)**
+- 🏫 Currently studying at **IMCC, Pune**
+- 🏆 Secured **97.16% in MCA CET**
+- 🤖 Completed an **AI & ML course from MKCL**
+- 🚀 Passionate about learning new technologies and building real-world projects
 
 ---
 
@@ -35,10 +36,10 @@
   <img src="https://img.shields.io/badge/MCA-IMCC%2C%20Pune-7B1FA2?style=for-the-badge" />
 </p>
 
-| Qualification                            | Institute                | Status                |
-| ---------------------------------------- | ------------------------ | --------------------- |
-| 🎓 Bachelor of Computer Science (BCS)    | K.B.P. College, Islampur | ✅ Completed           |
-| 🎓 Master of Computer Applications (MCA) | IMCC, Pune               | 🟢 Currently Studying |
+| Qualification | Institute | Status |
+|---|---|---|
+| 🎓 Bachelor of Computer Science (BCS) | K.B.P. College, Islampur | ✅ Completed |
+| 🎓 Master of Computer Applications (MCA) | IMCC, Pune | 🟢 Currently Studying |
 
 ### 🏆 MCA CET Achievement
 
@@ -56,11 +57,11 @@
   <img src="https://img.shields.io/badge/MKCL-AI%20%26%20ML%20Course-FF6F00?style=for-the-badge" />
 </p>
 
-* [x] Completed **AI & Machine Learning Course**
-* [x] Course completed through **MKCL**
-* [x] Learned fundamental concepts of Artificial Intelligence
-* [x] Learned fundamental concepts of Machine Learning
-* [x] Interested in exploring AI-powered applications
+- [x] Completed **AI & Machine Learning Course**
+- [x] Course completed through **MKCL**
+- [x] Learned fundamental concepts of Artificial Intelligence
+- [x] Learned fundamental concepts of Machine Learning
+- [x] Explored AI-powered applications
 
 ---
 
@@ -71,7 +72,6 @@
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 </p>
 
 ### 🤖 AI & ML
@@ -108,21 +108,20 @@ The project focuses on creating a simple and user-friendly online platform where
 
 ### ✨ Project Features
 
-* [x] 🏠 Home Page
-* [x] 📱 Mobile Product Listing
-* [x] 🔍 Product Browsing
-* [x] 📋 Product Details
-* [x] 🛒 Online Shopping Interface
-* [x] 🎨 User-Friendly Design
-* [x] 🧪 Website Testing
-* [x] 📝 Project Documentation
+- [x] 🏠 Home Page
+- [x] 📱 Mobile Product Listing
+- [x] 🔍 Product Browsing
+- [x] 📋 Product Details
+- [x] 🛒 Online Shopping Interface
+- [x] 🎨 User-Friendly Design
+- [x] 🧪 Website Testing
+- [x] 📝 Project Documentation
 
 ### 🛠️ Technologies Used
 
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
 </p>
 
 ---
@@ -148,75 +147,3 @@ AI & ML Course – MKCL
 MCA – IMCC Pune
  │
  └── 🚀 Currently Learning & Building
-```
-
----
-
-## 🎯 Current Goals
-
-* [x] 🎓 Complete BCS
-* [x] 📱 Complete Online Mobile Shop Project
-* [x] 🤖 Complete MKCL AI & ML Course
-* [x] 🏆 Achieve 97.16% in MCA CET
-* [x] 🎓 Start MCA at IMCC Pune
-* [ ] 💻 Build advanced real-world projects
-* [ ] 🤖 Develop AI/ML-based applications
-* [ ] 🌐 Improve full-stack development skills
-* [ ] 🚀 Contribute to open-source projects
-
----
-
-## 💡 Areas of Interest
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Web%20Development-FF6B6B?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Artificial%20Intelligence-845EC2?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Machine%20Learning-00C9A7?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Software%20Development-4D96FF?style=for-the-badge" />
-</p>
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pratik-maske&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pratik-maske&theme=tokyonight" alt="GitHub Streak" />
-</p>
-
----
-
-## 🚀 Mark Done
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/BCS-COMPLETED-success?style=for-the-badge" />
-<img src="https://img.shields.io/badge/AI%20%26%20ML-COMPLETED-success?style=for-the-badge" />
-<img src="https://img.shields.io/badge/College%20Project-COMPLETED-success?style=for-the-badge" />
-<img src="https://img.shields.io/badge/MCA%20CET-97.16%25-gold?style=for-the-badge" />
-<img src="https://img.shields.io/badge/MCA-ONGOING-blue?style=for-the-badge" />
-
-</p>
-
----
-
-<h2 align="center">👨‍💻 Pratik Babaso Maske</h2>
-
-<p align="center">
-  🎓 MCA Student @ IMCC, Pune
-  <br>
-  💻 BCS Graduate
-  <br>
-  🤖 AI & ML Enthusiast
-  <br><br>
-  <mark>Learning • Building • Growing 🚀</mark>
-</p>
-
----
-
-<p align="center">
-  ⭐ <strong>Thanks for visiting my GitHub profile!</strong> ⭐
-</p>
