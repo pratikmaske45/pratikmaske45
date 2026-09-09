@@ -1,6 +1,6 @@
 👋 Hello, My Name Is <mark>Pratik Babaso Maske</mark>!
 
-<p align="center"> <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=28&pause=1000&center=true&vCenter=true&width=600&lines=Hello%2C+I'm+Pratik+Babaso+Maske!;BCS+Graduate;Web+Development+Enthusiast;Welcome+to+my+GitHub!" alt="Typing SVG" /> </p>
+<p align="center"> <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=28&pause=1000&center=true&vCenter=true&width=600&lines=Hello%2C+I'm+Pratik+Babaso+Maske!;BCS+Graduate;Welcome+to+my+GitHub!" alt="Typing SVG" /> </p>
 
 👨‍💻 About Me
 
