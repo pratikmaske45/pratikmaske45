@@ -24,7 +24,7 @@
 
 - 👋 Hi, I'm **Pratik Babaso Maske**
 - 🎓 I have completed my **Bachelor of Computer Science (BCS)**
-- 🏫 Completed BCS from **K.B.P. College, Islampur**
+- 🏫 Completed BCS from **K.B.P. College, Ishwarpur**
 - 🎓 Currently pursuing **Master of Computer Applications (MCA)**
 - 🏫 Currently studying at **IMCC, Pune**
 - 🏆 Secured **97.16% in MCA CET**
@@ -36,13 +36,13 @@
 ## 🎓 Education
 
 <p align="center">
-  <img src="https://img.shields.io/badge/BCS-K.B.P.%20College%2C%20Islampur-4285F4?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/BCS-K.B.P.%20College%2C%20Ishwarpur-4285F4?style=for-the-badge" />
   <img src="https://img.shields.io/badge/MCA-IMCC%2C%20Pune-7B1FA2?style=for-the-badge" />
 </p>
 
 | Qualification | Institute | Status |
 |---|---|---|
-| 🎓 Bachelor of Computer Science (BCS) | K.B.P. College, Islampur | ✅ Completed |
+| 🎓 Bachelor of Computer Science (BCS) | K.B.P. College, Ishwarpur | ✅ Completed |
 | 🎓 Master of Computer Applications (MCA) | IMCC, Pune | 🟢 Currently Studying |
 
 ### 🏆 MCA CET Achievement
